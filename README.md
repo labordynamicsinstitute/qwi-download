@@ -1,4 +1,4 @@
 qwi-download
 ============
 
-Programs to download QWI (used internally for data at http://download.vrdc.cornell.edu/qwipu/ )
+Programs to download and read QWI data (used internally for data at http://download.vrdc.cornell.edu/qwipu/ )
