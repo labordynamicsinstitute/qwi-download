@@ -5,6 +5,7 @@ The programs here help to read in a large chunk of the QWI CSV programs. Paralle
 
 Structure
 ---------
+* [original](original/) contains SAS programs as originally distributed with the QWI distribution (through V4.2). The programs and auxiliary files for a sample state (AK) are available, other states are similar.
 * [sasprogs](sasprogs/) contains the main SAS programs used for the readin.
 * [scripts](scripts/) has scripts to generate the qsub readin jobs, which can then be submitted independently as needed.
 
@@ -30,4 +31,4 @@ Scripts
 
 * [launch_qsub.bash](scripts/launch_qsub.bash) is designed to launch ALL jobs in the current directory (may do some other checks as well if called differently, no longer being actively used).
 
-Alternatively, users can launch qsub jobs manually. 
+Alternatively, users can launch qsub jobs manually.
