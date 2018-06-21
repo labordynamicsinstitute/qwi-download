@@ -1,0 +1,37 @@
+geography,label,geo_level
+02,"Alaska",S
+02000001,"01 Alaska WIB",W
+02013,"Aleutians East, AK",C
+02016,"Aleutians West, AK",C
+02020,"Anchorage, AK",C
+02050,"Bethel, AK",C
+02060,"Bristol Bay, AK",C
+02068,"Denali, AK",C
+02070,"Dillingham, AK",C
+02090,"Fairbanks North Star, AK",C
+02100,"Haines, AK",C
+02105,"Hoonah-Angoon, AK",C
+02110,"Juneau, AK",C
+0211260,"Anchorage, AK",M
+02122,"Kenai Peninsula, AK",C
+02130,"Ketchikan Gateway, AK",C
+02150,"Kodiak Island, AK",C
+02158,"Kusilvak, AK",C
+02164,"Lake and Peninsula, AK",C
+02170,"Matanuska-Susitna, AK",C
+02180,"Nome, AK",C
+02185,"North Slope, AK",C
+02188,"Northwest Arctic, AK",C
+02195,"Petersburg, AK",C
+02198,"Prince of Wales-Hyder, AK",C
+0221820,"Fairbanks, AK",M
+02220,"Sitka, AK",C
+02230,"Skagway, AK",C
+02240,"Southeast Fairbanks, AK",C
+02261,"Valdez-Cordova, AK",C
+02275,"Wrangell, AK",C
+0227940,"Juneau, AK",M
+02282,"Yakutat, AK",C
+0228540,"Ketchikan, AK",M
+02290,"Yukon-Koyukuk, AK",C
+0299999,"Nonmetropolitan, nonmicropolitan",M
